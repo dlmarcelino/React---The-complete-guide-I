@@ -1,3 +1,6 @@
+/**
+ * Expenses block component -> receives an expense list and renders each expense
+ */
 import Card from "./Card";
 import ExpenseItem from "./ExpenseItem";
 import "./Expenses.css";

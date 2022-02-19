@@ -1,3 +1,7 @@
+/**
+ * Expense item component -> each expense item is one line inside expenses table
+ */
+
 import Card from "./Card";
 import ExpenseDate from "./ExpenseDate";
 import "./ExpenseItem.css";

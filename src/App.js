@@ -1,3 +1,6 @@
+/**
+ * Main component
+ */
 import Expenses from "./components/Expenses";
 
 function App() {
